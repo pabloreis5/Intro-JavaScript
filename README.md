@@ -1,2 +1,3 @@
 # Intro-JavaScript
-Estudos em JavaScript, através da ALURA.
+
+Projeto em desenvolvimento visando estudos relacionados à linguagem JavaScript. Guiado por curso da ALURA.
